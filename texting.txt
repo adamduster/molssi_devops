@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 adf
 asdf
 
 asf
+=======
+Now I andded a new line
+>>>>>>> 9d5752f3f61b702415a290d5bccd247f17607ae3
 ipsoum lorem
